@@ -48,4 +48,5 @@
 
 ### Burnout Paradise
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Blender_Burnout_Batch_Assets_Import&theme=github_dark_dimmed" height="150">](https://github.com/Adriwin06/Blender_Burnout_Batch_Assets_Import)
-[<img src="https://github-readme-stats.vercel.app/api/gist?id=339d77a7b45069e34955cd1b9f16d8d3&theme=github_dark_dimmed" height="150">](https://gist.github.com/Adriwin06/339d77a7b45069e34955cd1b9f16d8d3#file-readme-md)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Game-Patches&theme=github_dark_dimmed" height="150">](https://github.com/Adriwin06/Game-Patches)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Burnout_tcartwright_Ultimate-Experience&theme=github_dark_dimmed" height="150">](https://github.com/Adriwin06/Burnout_tcartwright_Ultimate-Experience)
