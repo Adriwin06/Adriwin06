@@ -4,10 +4,9 @@
 - I love beta/development builds of some games, especially **Burnout Paradise**.
 - I am learning Reverse Engineering for **Burnout Paradise** with *IDA Pro*, and started making patches for it. My other goal? Understand the game and **remake it** in Unreal Engine, but also **enhance it**, **add scraped beta content** & more!
 
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Adriwin06&show_icons=true&theme=github_dark_dimmed" height="200">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriwin06&langs_count=10&layout=compact&theme=github_dark_dimmed" height="200">
-</div>
+[<img src="https://github-readme-stats.vercel.app/api?username=Adriwin06&show_icons=true&theme=github_dark_dimmed" height="200">](https://github.com/Adriwin06)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriwin06&langs_count=10&layout=compact&theme=github_dark_dimmed" height="200">](https://github.com/Adriwin06)
+
 
 ## Languages
 ### Main
@@ -42,3 +41,11 @@
 ![Static Badge](https://img.shields.io/badge/Windows-38c1ff?style=for-the-badge&logo=windows-11&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Android-30d780?style=for-the-badge&logo=android&logoColor=white)
+
+## My Main Projects
+### Unreal Engine
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Ultimate-CommonUI-Menu-System&theme=github_dark_dimmed" height="150">](https://github.com/Adriwin06/Ultimate-CommonUI-Menu-System)
+
+### Burnout Paradise
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Blender_Burnout_Batch_Assets_Import&theme=github_dark_dimmed" height="150">](https://github.com/Adriwin06/Blender_Burnout_Batch_Assets_Import)
+[<img src="https://github-readme-stats.vercel.app/api/gist?id=339d77a7b45069e34955cd1b9f16d8d3&theme=github_dark_dimmed" height="150">](https://gist.github.com/Adriwin06/339d77a7b45069e34955cd1b9f16d8d3#file-readme-md)
