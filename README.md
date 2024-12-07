@@ -11,10 +11,10 @@
 
 <h1 align = center>Skills</h1>
 <!--Skills Table--> 
-<table width="100%">
+<table align= "center" width="100%">
   <tr>
     <td width="50%">
-      <h2 align="center"><strong>Languages</strong></h2>
+      <h2 align="center">Languages</h2>
       <p>
         <div>
             <h3 align="center">Main<h3>
@@ -33,7 +33,7 @@
       </p>
     </td>
     <td width="50%">
-      <h2 align="center"><strong>Softwares</strong></h2>
+      <h2 align="center">Softwares</h2>
       <p>
         <div>
             <h3 align="center">Game Development<h3>
@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h2 align="center"><strong>IDE/Editors</strong></h2>
+      <h2 align="center">IDE/Editors</h2>
       <p>
         <div>
             <div align="center">
@@ -70,7 +70,7 @@
       </p>
     </td>
     <td width="50%">
-      <h2 align="center"><strong>Operating Systems</strong></h2>
+      <h2 align="center">Operating Systems</h2>
       <p>
         <div>
             <div align="center">
@@ -88,28 +88,25 @@
 
 <h1 align = "center">Main Projects</h1>
 <!--GitHub Main Projects Table--> 
-<table width="100%">
+<table align= "center" width="100%">
   <tr>
     <td width="50%">
-      <h2 align="center"><strong>Unreal Engine</strong></h2>
+      <h2 align="center">Unreal Engine</h2>
       <p>
         <div>
             <div align="center">
-                <a href="https://github.com/Adriwin06/Ultimate-CommonUI-Menu-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Ultimate-CommonUI-Menu-System&theme=github_dark_dimmed">
-                </a>
+                <a href="https://github.com/Adriwin06/Ultimate-CommonUI-Menu-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Ultimate-CommonUI-Menu-System&theme=github_dark_dimmed"></a>
             </div>
         </div>
       </p>
     </td>
     <td width="50%">
-      <h2 align="center"><strong>Burnout Paradise</strong></h2>
+      <h2 align="center">Burnout Paradise</h2>
       <p>
         <div>
             <div align="center">
-                <a href="https://github.com/Adriwin06/Blender_Burnout_Batch_Assets_Import"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Blender_Burnout_Batch_Assets_Import&theme=github_dark_dimmed">
-                </a>
-                <a href="https://github.com/Adriwin06/Burnout_tcartwright_Ultimate-Experience"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Burnout_tcartwright_Ultimate-Experience&theme=github_dark_dimmed">
-                </a>
+                <a href="https://github.com/Adriwin06/Blender_Burnout_Batch_Assets_Import"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Blender_Burnout_Batch_Assets_Import&theme=github_dark_dimmed"></a>
+                <a href="https://github.com/Adriwin06/Burnout_tcartwright_Ultimate-Experience"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Burnout_tcartwright_Ultimate-Experience&theme=github_dark_dimmed"></a>
             </div>
         </div>
       </p>
@@ -117,27 +114,19 @@
   </tr>
   <tr>
     <td width="50%">
-      <h2 align="center"><strong>Minecraft Modpacks</strong></h2>
+      <h2 align="center">Contributions</h2>
       <p>
-        <div>
-            <div align="center">
-                <a href="https://github.com/Adriwin06/Better-of-Fabric-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Better-of-Fabric-2&theme=github_dark_dimmed">
-                </a>
-                <a href="https://github.com/Adriwin06/Better-of-Fabric"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Better-of-Fabric&theme=github_dark_dimmed">
-                </a>
-            </div>
+        <div align= "center">
+            <a href="https://github.com/Adriwin06/blender_burnout_paradise_helpers"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=blender_burnout_paradise_helpers&theme=github_dark_dimmed"></a>
         </div>
       </p>
     </td>
     <td width="50%">
-      <h2 align="center"><strong>Reverse Engineering</strong></h2>
+      <h2 align="center">Reverse Engineering</h2>
       <p>
-        <div>
-            <div align="center">
-                <a href="https://github.com/Adriwin06/Game-Patches"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Game-Patches&theme=github_dark_dimmed">
-                </a>
-            </div>
-        </div>
+          <div align= "center">
+            <a href="https://github.com/Adriwin06/Game-Patches"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Game-Patches&theme=github_dark_dimmed"></a>
+          </div>
       </p>
     </td>
   </tr>
