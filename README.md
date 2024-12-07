@@ -5,8 +5,8 @@
 - I am learning Reverse Engineering for **Burnout Paradise** with *IDA Pro*, and started making patches for it. My other goal? Understand the game and **remake it** in Unreal Engine, but also **enhance it**, **add scraped beta content** & more!
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Adriwin06&show_icons=true&theme=synthwave" height="180">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriwin06&langs_count=10&layout=compact&theme=synthwave" height="180">
+    <img src="https://github-readme-stats.vercel.app/api?username=Adriwin06&show_icons=true&theme=github_dark_dimmed" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriwin06&langs_count=10&layout=compact&theme=github_dark_dimmed" height="200">
 </div>
 
 ## Languages
