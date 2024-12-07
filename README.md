@@ -134,8 +134,6 @@
 
 <!--Trophies-->   
 <h1 align="center">GitHub Trophies</h1>
-<p align="center">
-    <picture>
-        <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Adriwin06&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-</p>
+<div align="center">
+    <a href="https://github.com/Adriwin06"><img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Adriwin06&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20"></a>
+</div>
