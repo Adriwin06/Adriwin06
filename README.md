@@ -4,51 +4,151 @@
 - I love beta/development builds of some games, especially **Burnout Paradise**.
 - I am learning Reverse Engineering for **Burnout Paradise** with *IDA Pro*, and started making patches for it. My other goal? Understand the game and **remake it** in Unreal Engine, but also **enhance it**, **add scraped beta content** & more!
 
-[<img src="https://github-readme-stats.vercel.app/api?username=Adriwin06&show_icons=true&theme=github_dark_dimmed" height="200">](https://github.com/Adriwin06)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriwin06&langs_count=10&layout=compact&theme=github_dark_dimmed" height="200">](https://github.com/Adriwin06)
+<div align="center">
+    <a href="https://github.com/Adriwin06"><img src="https://github-readme-stats.vercel.app/api?username=Adriwin06&show_icons=true&theme=github_dark_dimmed" height="250"></a>
+    <a href="https://github.com/Adriwin06"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriwin06&langs_count=10&layout=compact&theme=github_dark_dimmed" height="250"></a>
+</div>
+
+<h1 align = center>Skills</h1>
+<!--Skills Table--> 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h2 align="center"><strong>Languages</strong></h2>
+      <p>
+        <div>
+            <h3 align="center">Main<h3>
+            <div align="center">
+                <img src="https://img.shields.io/badge/C89-00589c?style=for-the-badge&logo=c&logoColor=white">
+                <img src="https://img.shields.io/badge/Python-2f6c9d?style=for-the-badge&logo=python&logoColor=ffdb4a">
+                <img src="https://img.shields.io/badge/Bash-2a3238?style=for-the-badge&logo=gnubash&logoColor=white">
+            </div>
+            <h3 align="center">Web<h3>
+            <div align="center">
+                <img src="https://img.shields.io/badge/HTML-e54c21?style=for-the-badge&logo=html5&logoColor=white">
+                <img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white">
+                <img src="https://img.shields.io/badge/JavaScript-fedd22?style=for-the-badge&logo=javascript&logoColor=black">  
+            </div>
+        </div>
+      </p>
+    </td>
+    <td width="50%">
+      <h2 align="center"><strong>Softwares</strong></h2>
+      <p>
+        <div>
+            <h3 align="center">Game Development<h3>
+            <div align="center">
+                <img src="https://img.shields.io/badge/Unreal%20Engine-ffffff?style=for-the-badge&logo=unreal-engine&logoColor=black">
+                <img src="https://img.shields.io/badge/Blender-eb7700?style=for-the-badge&logo=blender&logoColor=white">
+                <img src="https://img.shields.io/badge/Gaea-ffb800?style=for-the-badge&logo=quadspinner&logoColor=white">
+            </div>
+            <h3 align="center">Reverse Engineering<h3>
+            <div align="center">
+                <img src="https://img.shields.io/badge/IDA%20Pro-e1164d?style=for-the-badge&logo=ida&logoColor=white"> 
+            </div>
+            <h3 align="center">Design<h3>
+            <div align="center">
+                <img src="https://img.shields.io/badge/Figma-874fff?style=for-the-badge&logo=figma&logoColor=white">
+                <img src="https://img.shields.io/badge/Adobe%20Illustrator-330000?style=for-the-badge&logo=adobe-illustrator&logoColor=white">
+                <img src="https://img.shields.io/badge/Krita-f54ff4?style=for-the-badge&logo=krita&logoColor=white"> 
+            </div>
+        </div>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h2 align="center"><strong>IDE/Editors</strong></h2>
+      <p>
+        <div>
+            <div align="center">
+                <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2578ac?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+                <img src="https://img.shields.io/badge/Sublime%20Text-f89820?style=for-the-badge&logo=sublime-text&logoColor=white">
+                <img src="https://img.shields.io/badge/Visual%20Studio-7252aa?style=for-the-badge&logo=visual-studio&logoColor=white"> 
+            </div>
+        </div>
+      </p>
+    </td>
+    <td width="50%">
+      <h2 align="center"><strong>Operating Systems</strong></h2>
+      <p>
+        <div>
+            <div align="center">
+                <img src="https://img.shields.io/badge/Windows-38c1ff?style=for-the-badge&logo=windows-11&logoColor=white">
+                <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+                <img src="https://img.shields.io/badge/Android-30d780?style=for-the-badge&logo=android&logoColor=white"> 
+            </div>
+        </div>
+      </p>
+    </td>
+  </tr>
+</table>
+<br>
 
 
-## Languages
-### Main
-![Static Badge](https://img.shields.io/badge/C-00589c?style=for-the-badge&logo=c&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Python-2f6c9d?style=for-the-badge&logo=python&logoColor=ffdb4a)
-![Static Badge](https://img.shields.io/badge/Bash-2a3238?style=for-the-badge&logo=gnubash&logoColor=white)
-### Web
-![Static Badge](https://img.shields.io/badge/HTML-e54c21?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/JavaScript-fedd22?style=for-the-badge&logo=javascript&logoColor=black)  
+<h1 align = "center">Main Projects</h1>
+<!--GitHub Main Projects Table--> 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h2 align="center"><strong>Unreal Engine</strong></h2>
+      <p>
+        <div>
+            <div align="center">
+                <a href="https://github.com/Adriwin06/Ultimate-CommonUI-Menu-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Ultimate-CommonUI-Menu-System&theme=github_dark_dimmed">
+                </a>
+            </div>
+        </div>
+      </p>
+    </td>
+    <td width="50%">
+      <h2 align="center"><strong>Burnout Paradise</strong></h2>
+      <p>
+        <div>
+            <div align="center">
+                <a href="https://github.com/Adriwin06/Blender_Burnout_Batch_Assets_Import"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Blender_Burnout_Batch_Assets_Import&theme=github_dark_dimmed">
+                </a>
+                <a href="https://github.com/Adriwin06/Burnout_tcartwright_Ultimate-Experience"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Burnout_tcartwright_Ultimate-Experience&theme=github_dark_dimmed">
+                </a>
+            </div>
+        </div>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h2 align="center"><strong>Minecraft Modpacks</strong></h2>
+      <p>
+        <div>
+            <div align="center">
+                <a href="https://github.com/Adriwin06/Better-of-Fabric-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Better-of-Fabric-2&theme=github_dark_dimmed">
+                </a>
+                <a href="https://github.com/Adriwin06/Better-of-Fabric"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Better-of-Fabric&theme=github_dark_dimmed">
+                </a>
+            </div>
+        </div>
+      </p>
+    </td>
+    <td width="50%">
+      <h2 align="center"><strong>Reverse Engineering</strong></h2>
+      <p>
+        <div>
+            <div align="center">
+                <a href="https://github.com/Adriwin06/Game-Patches"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Game-Patches&theme=github_dark_dimmed">
+                </a>
+            </div>
+        </div>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## Softwares
-### Game Development
-![Static Badge](https://img.shields.io/badge/Unreal%20Engine-ffffff?style=for-the-badge&logo=unreal-engine&logoColor=black)
-![Static Badge](https://img.shields.io/badge/Blender-eb7700?style=for-the-badge&logo=blender&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Gaea-ffb800?style=for-the-badge&logo=quadspinner&logoColor=white)
-
-### Reverse Engineering
-![Static Badge](https://img.shields.io/badge/IDA%20Pro-e1164d?style=for-the-badge&logo=ida&logoColor=white)
-
-### Design
-![Static Badge](https://img.shields.io/badge/Figma-874fff?style=for-the-badge&logo=figma&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Adobe%20Illustrator-330000?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Krita-f54ff4?style=for-the-badge&logo=krita&logoColor=white)
-
-### Code
-![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-2578ac?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Sublime%20Text-f89820?style=for-the-badge&logo=sublime-text&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Visual%20Studio-7252aa?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-## Operating Systems
-![Static Badge](https://img.shields.io/badge/Windows-38c1ff?style=for-the-badge&logo=windows-11&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Static Badge](https://img.shields.io/badge/Android-30d780?style=for-the-badge&logo=android&logoColor=white)
-
-## My Main Projects
-### Unreal Engine
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Ultimate-CommonUI-Menu-System&theme=github_dark_dimmed" height="150">](https://github.com/Adriwin06/Ultimate-CommonUI-Menu-System)
-
-### Burnout Paradise
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Blender_Burnout_Batch_Assets_Import&theme=github_dark_dimmed" height="150">](https://github.com/Adriwin06/Blender_Burnout_Batch_Assets_Import)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Burnout_tcartwright_Ultimate-Experience&theme=github_dark_dimmed" height="150">](https://github.com/Adriwin06/Burnout_tcartwright_Ultimate-Experience)
-
-### Other
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Game-Patches&theme=github_dark" height="150" width="400">](https://github.com/Adriwin06/Game-Patches)
+<!--Trophies-->   
+<h1 align="center">GitHub Trophies</h1>
+<p align="center">
+    <picture>
+        <source srcset="https://github-profile-trophy.vercel.app/?username=Adriwin06&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=discord">
+        <source srcset="https://github-profile-trophy.vercel.app/?username=Adriwin06&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+        <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Adriwin06&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+</p>
