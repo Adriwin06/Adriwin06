@@ -96,6 +96,7 @@
         <div>
             <div align="center">
                 <a href="https://github.com/Adriwin06/Ultimate-CommonUI-Menu-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Ultimate-CommonUI-Menu-System&theme=github_dark_dimmed"></a>
+                <a href="https://gist.github.com/Adriwin06/bc719a3b14f517c6d3f32ede8940b61b"><img src="https://github-readme-stats.vercel.app/api/gist?id=bc719a3b14f517c6d3f32ede8940b61b&theme=github_dark_dimmed"></a>
             </div>
         </div>
       </p>
