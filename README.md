@@ -106,7 +106,7 @@
       <p>
         <div>
             <div align="center">
-                <a href="https://github.com/Adriwin06/Blender_Burnout_Batch_Assets_Import"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Blender_Burnout_Batch_Assets_Import&theme=github_dark_dimmed"></a>
+                <a href="https://github.com/Adriwin06/Blender-Burnout-Paradise-Assets-Manager"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Blender-Burnout-Paradise-Assets-Manager&theme=github_dark_dimmed"></a>
                 <a href="https://github.com/Adriwin06/Burnout_tcartwright_Ultimate-Experience"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Burnout_tcartwright_Ultimate-Experience&theme=github_dark_dimmed"></a>
             </div>
         </div>
