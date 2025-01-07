@@ -127,6 +127,7 @@
       <p>
           <div align= "center">
             <a href="https://github.com/Adriwin06/Game-Patches"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Game-Patches&theme=github_dark_dimmed"></a>
+            <a href="https://github.com/Adriwin06/Burnout_AT_Editor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=Burnout_AT_Editor&theme=github_dark_dimmed"></a>
           </div>
       </p>
     </td>
