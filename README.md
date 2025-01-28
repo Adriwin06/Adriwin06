@@ -13,21 +13,21 @@
 <!--Skills Table--> 
 <table align= "center" width="100%">
   <tr>
-    <td width="50%">
-      <h2 align="center">Languages</h2>
+    <td width="500">
+      <h2 align="center">Code</h2>
       <p>
         <div>
             <h3 align="center">Main<h3>
             <div align="center">
-                <img src="https://img.shields.io/badge/C89-00589c?style=for-the-badge&logo=c&logoColor=white">
-                <img src="https://img.shields.io/badge/Python-2f6c9d?style=for-the-badge&logo=python&logoColor=ffdb4a">
-                <img src="https://img.shields.io/badge/Bash-2a3238?style=for-the-badge&logo=gnubash&logoColor=white">
+                <img src="https://skillicons.dev/icons?i=c,python,java,bash">
             </div>
             <h3 align="center">Web<h3>
             <div align="center">
-                <img src="https://img.shields.io/badge/HTML-e54c21?style=for-the-badge&logo=html5&logoColor=white">
-                <img src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white">
-                <img src="https://img.shields.io/badge/JavaScript-fedd22?style=for-the-badge&logo=javascript&logoColor=black">  
+                <img src="https://skillicons.dev/icons?i=html,css,js,flask,react"> 
+            </div>
+            <h3 align="center">Other<h3>
+            <div align="center">
+                <img src="https://skillicons.dev/icons?i=git,md"> 
             </div>
         </div>
       </p>
@@ -38,9 +38,10 @@
         <div>
             <h3 align="center">Game Development<h3>
             <div align="center">
-                <img src="https://img.shields.io/badge/Unreal%20Engine-ffffff?style=for-the-badge&logo=unreal-engine&logoColor=black">
-                <img src="https://img.shields.io/badge/Blender-eb7700?style=for-the-badge&logo=blender&logoColor=white">
+                <img src="https://skillicons.dev/icons?i=unreal,blender"> 
+                <br>
                 <img src="https://img.shields.io/badge/Gaea-ffb800?style=for-the-badge&logo=quadspinner&logoColor=white">
+                <img src="https://img.shields.io/badge/ZBrush-c44100?style=for-the-badge&logo=zbrush&logoColor=white">
             </div>
             <h3 align="center">Reverse Engineering<h3>
             <div align="center">
@@ -48,8 +49,8 @@
             </div>
             <h3 align="center">Design<h3>
             <div align="center">
-                <img src="https://img.shields.io/badge/Figma-874fff?style=for-the-badge&logo=figma&logoColor=white">
-                <img src="https://img.shields.io/badge/Adobe%20Illustrator-330000?style=for-the-badge&logo=adobe-illustrator&logoColor=white">
+                <img src="https://skillicons.dev/icons?i=figma,illustrator"> 
+                <br>
                 <img src="https://img.shields.io/badge/Krita-f54ff4?style=for-the-badge&logo=krita&logoColor=white"> 
             </div>
         </div>
@@ -62,9 +63,7 @@
       <p>
         <div>
             <div align="center">
-                <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2578ac?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-                <img src="https://img.shields.io/badge/Sublime%20Text-f89820?style=for-the-badge&logo=sublime-text&logoColor=white">
-                <img src="https://img.shields.io/badge/Visual%20Studio-7252aa?style=for-the-badge&logo=visual-studio&logoColor=white"> 
+                <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime"> 
             </div>
         </div>
       </p>
@@ -74,9 +73,7 @@
       <p>
         <div>
             <div align="center">
-                <img src="https://img.shields.io/badge/Windows-38c1ff?style=for-the-badge&logo=windows-11&logoColor=white">
-                <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-                <img src="https://img.shields.io/badge/Android-30d780?style=for-the-badge&logo=android&logoColor=white"> 
+                <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,androidstudio"> 
             </div>
         </div>
       </p>
