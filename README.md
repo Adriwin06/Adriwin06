@@ -19,7 +19,7 @@
         <div>
             <h3 align="center">Main<h3>
             <div align="center">
-                <img src="https://skillicons.dev/icons?i=c,python,java,bash">
+                <img src="https://skillicons.dev/icons?i=python,c,cpp,java,bash">
             </div>
             <h3 align="center">Web<h3>
             <div align="center">
@@ -116,6 +116,7 @@
       <p>
         <div align= "center">
             <a href="https://github.com/JeBobs/blender_burnout_paradise_helpers/pull/1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=blender_burnout_paradise_helpers&theme=github_dark_dimmed"></a>
+            <a href="https://github.com/burninrubber0/YAP/pull/3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=YAP&theme=github_dark_dimmed"></a>
         </div>
       </p>
     </td>
