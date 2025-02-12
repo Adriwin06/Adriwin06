@@ -115,8 +115,8 @@
       <h2 align="center">Contributions</h2>
       <p>
         <div align= "center">
-            <a href="https://github.com/JeBobs/blender_burnout_paradise_helpers/pull/1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=blender_burnout_paradise_helpers&theme=github_dark_dimmed"></a>
-            <a href="https://github.com/burninrubber0/YAP/pull/3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Adriwin06&repo=YAP&theme=github_dark_dimmed"></a>
+            <a href="https://github.com/JeBobs/blender_burnout_paradise_helpers/pull/1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JeBobs&repo=blender_burnout_paradise_helpers&theme=github_dark_dimmed"></a>
+            <a href="https://github.com/burninrubber0/YAP/pull/3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=burninrubber0&repo=YAP&theme=github_dark_dimmed"></a>
         </div>
       </p>
     </td>
