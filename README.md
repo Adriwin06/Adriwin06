@@ -6,7 +6,7 @@
 
 <div align="center">
     <a href="https://github.com/Adriwin06"><img src="https://adriwin-profile-readme-stats.vercel.app/api?username=Adriwin06&show_icons=true&theme=github_dark_dimmed&exclude_repo=github-readme-stats,github-profile-trophy" height="210"></a>
-    <a href="https://github.com/Adriwin06"><img src="https://adriwin-profile-readme-stats.vercel.app/api/top-langs/?username=Adriwin06&langs_count=10&layout=compact&theme=github_dark_dimmed&exclude_repo=github-readme-stats,github-profile-trophy" height="210"></a>
+    <a href="https://github.com/Adriwin06"><img src="https://adriwin-profile-readme-stats.vercel.app/api/top-langs/?username=Adriwin06&langs_count=10&layout=compact&theme=github_dark_dimmed&exclude_repo=github-readme-stats,github-profile-trophy,UCMS-Plugin,Ultimate-CommonUI-Menu-System" height="210"></a>
 </div>
 
 <h1 align = center>Skills</h1>
