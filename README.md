@@ -5,8 +5,8 @@
 - I am learning Reverse Engineering for **Burnout Paradise** with *IDA Pro*, and started making patches for it. My other goal? Understand the game and **remake it** in Unreal Engine, but also **enhance it**, **add scraped beta content** & more!
 
 <div align="center">
-    <a href="https://github.com/Adriwin06"><img src="https://adriwin-profile-readme-stats.vercel.app//api?username=Adriwin06&show_icons=true&theme=github_dark_dimmed" height="210"></a>
-    <a href="https://github.com/Adriwin06"><img src="https://adriwin-profile-readme-stats.vercel.app//api/top-langs/?username=Adriwin06&langs_count=10&layout=compact&theme=github_dark_dimmed" height="210"></a>
+    <a href="https://github.com/Adriwin06"><img src="https://adriwin-profile-readme-stats.vercel.app/api?username=Adriwin06&show_icons=true&theme=github_dark_dimmed" height="210"></a>
+    <a href="https://github.com/Adriwin06"><img src="https://adriwin-profile-readme-stats.vercel.app/api/top-langs/?username=Adriwin06&langs_count=10&layout=compact&theme=github_dark_dimmed" height="210"></a>
 </div>
 
 <h1 align = center>Skills</h1>
@@ -135,5 +135,5 @@
 <!--Trophies-->   
 <h1 align="center">GitHub Trophies</h1>
 <div align="center">
-    <a href="https://github.com/Adriwin06"><img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Adriwin06&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&rank=S,AAA,AA,A,B,C,Secret"></a>
+    <a href="https://github.com/Adriwin06"><img alt="GitHub Trophies" src="https://adriwin-profile-readme-trophy.vercel.app/?username=Adriwin06&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&rank=S,AAA,AA,A,B,C,Secret"></a>
 </div>
