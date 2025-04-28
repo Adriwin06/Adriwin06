@@ -1,12 +1,12 @@
 # Hello, I'm Adriwin! 👋🏼
 - I am an **Unreal Engine** Game Developer, working on a game & various projects (public or not). You can check out **my repositories** here or my **itch.io** page to see the publics one.
-- I also mod games, and occasionnaly play them.
+- I also mod games, and occasionally play them.
 - I love beta/development builds of some games, especially **Burnout Paradise**.
 - I am learning Reverse Engineering for **Burnout Paradise** with *IDA Pro*, and started making patches for it. My other goal? Understand the game and **remake it** in Unreal Engine, but also **enhance it**, **add scraped beta content** & more!
 
 <div align="center">
-    <a href="https://github.com/Adriwin06"><img src="https://github-readme-stats.vercel.app/api?username=Adriwin06&show_icons=true&theme=github_dark_dimmed" height="210"></a>
-    <a href="https://github.com/Adriwin06"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriwin06&langs_count=10&layout=compact&theme=github_dark_dimmed" height="210"></a>
+    <a href="https://github.com/Adriwin06"><img src="https://adriwin-profile-readme-stats.vercel.app//api?username=Adriwin06&show_icons=true&theme=github_dark_dimmed" height="210"></a>
+    <a href="https://github.com/Adriwin06"><img src="https://adriwin-profile-readme-stats.vercel.app//api/top-langs/?username=Adriwin06&langs_count=10&layout=compact&theme=github_dark_dimmed" height="210"></a>
 </div>
 
 <h1 align = center>Skills</h1>
